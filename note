@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+git add index.html
+git commit -m "update tiddlers"
+git push
+
+
